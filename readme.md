@@ -1,4 +1,4 @@
-# c++ ProcessMemory
+# c++ ProcessMemory Class
 
 A c++ class that should make reading/writing process memory alot easier
 
