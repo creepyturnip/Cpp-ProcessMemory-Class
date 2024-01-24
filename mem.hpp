@@ -1,5 +1,6 @@
 #include <iostream>
 #include <windows.h>
+#include <cstdint>
 #include <string.h>
 #include <tlhelp32.h>
 
